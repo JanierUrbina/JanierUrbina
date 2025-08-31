@@ -2,7 +2,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science;BackEnd+Developer;problem+solver" alt="Headline" />
     </div>[](url)
-### 👨🏻‍💻 &nbsp;About Me
+👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am a Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
