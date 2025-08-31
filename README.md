@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working in person in Nicaragua.\
 ✍️ &nbsp;In my free time, i read about new technologies.\
-💬 &nbsp;My first language is Spanish, that's why all my repositories are in spanish, but if you have a doubt, feel free to ask me anything.\
+💬 &nbsp;My first language is Spanish, that's why all my repositories are in spanish, but if you have a doubt, feel free to ask me anything.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
